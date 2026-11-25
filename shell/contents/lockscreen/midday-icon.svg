@@ -1,0 +1,21 @@
+<svg width="28" height="26" viewBox="0 0 28 26" fill="none" xmlns="http://w3.org">
+  <defs>
+    <radialGradient id="sunGlow" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#FFF59D" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#FFD54F" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FFB300" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sunDisc" x1="16" y1="3" x2="16" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFDE7"/>
+      <stop offset="50%" stop-color="#FFE082"/>
+      <stop offset="100%" stop-color="#FFCA28"/>
+    </linearGradient>
+    <linearGradient id="cloudGrad" x1="12" y1="10" x2="12" y2="22" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#E3F2FD" stop-opacity="0.86"/>
+    </linearGradient>
+  </defs>
+  <circle cx="17.5" cy="9.5" r="8.5" fill="url(#sunGlow)"/>
+  <circle cx="17.5" cy="9.5" r="5.4" fill="url(#sunDisc)"/>
+  <path d="M8.5 21.5H18.2C20.5748 21.5 22.5 19.62 22.5 17.3C22.5 15.14 20.84 13.36 18.7 13.13C18.02 10.75 15.81 9 13.18 9C10.02 9 7.45 11.49 7.41 14.59C5.76 15.05 4.5 16.53 4.5 18.3C4.5 20.07 5.95 21.5 7.75 21.5H8.5Z" fill="url(#cloudGrad)"/>
+</svg>
