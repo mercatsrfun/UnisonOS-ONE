@@ -4,10 +4,10 @@
 -->
 
 # UnisonOS ONE Shell
-A high-fidelity, 1:1 Figma-accurate shell implementation for Plasma Mobile. Argon focuses on modern "liquid" UI interactions, custom GPU shaders, and physics-based motion.
+A security based, Figma recreation & Reliable "Android" Replacement focusing on Optimization.
 
 * **Platform:** KDE Plasma Mobile (Qt6 / QML)
-* **Design Foundation:** 1:1 Figma Accuracy
+* **Design Foundation:** Unison Design (Figma)
 
 ---
 
